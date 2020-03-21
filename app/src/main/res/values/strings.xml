@@ -4,4 +4,7 @@
     <string name="str1">Happy Brithday!</string>
     <string name="str2">Your Jerry</string>
     <string name="description" translatable="false">background</string>
+    <string name="tran_bot">Convert to Fahrenheit temperature</string>
+    <string name="tran_input">Please enter degrees Celsius</string>
+    <string name="tran_out">Result:</string>
 </resources>

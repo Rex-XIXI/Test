@@ -3,4 +3,7 @@
     <string name="app_name">测试</string>
     <string name="str1">生日快乐！</string>
     <string name="str2">杰瑞</string>
+    <string name="tran_bot">转换为华氏度</string>
+    <string name="tran_input">请输入摄氏度</string>
+    <string name="tran_out">转换结果为：</string>
 </resources>
