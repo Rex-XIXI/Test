@@ -7,4 +7,16 @@
     <string name="tran_bot">Convert to Fahrenheit temperature</string>
     <string name="tran_input">Please enter degrees Celsius</string>
     <string name="tran_out">Result:</string>
+    <string name="point_team1_name" translatable="false">OKC</string>
+    <string name="point_team1_score" translatable="false">0</string>
+    <string name="point_team2_name" translatable="false">NYC</string>
+    <string name="point_team2_score" translatable="false">0</string>
+    <string name="point_1p" translatable="false">+1 point</string>
+    <string name="point_2p" translatable="false">+2 point</string>
+    <string name="point_3p" translatable="false">+3 point</string>
+    <string name="point_reset">reset</string>
+    <string name="rate_dol">Dollar</string>
+    <string name="rate_euro">Euro</string>
+    <string name="rate_won">Won</string>
+    <string name="rate_hint">Please Input Amount of RMB</string>
 </resources>

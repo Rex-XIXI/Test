@@ -6,4 +6,9 @@
     <string name="tran_bot">转换为华氏度</string>
     <string name="tran_input">请输入摄氏度</string>
     <string name="tran_out">转换结果为：</string>
+    <string name="point_reset">重置</string>
+    <string name="rate_dol">美元</string>
+    <string name="rate_won">韩元</string>
+    <string name="rate_euro">欧元</string>
+    <string name="rate_hint">请输入人民币数额</string>
 </resources>
