@@ -19,4 +19,6 @@
     <string name="rate_euro">Euro</string>
     <string name="rate_won">Won</string>
     <string name="rate_hint">Please Input Amount of RMB</string>
+    <string name="cfg_save_label">Save</string>
+    <string name="rate_openCfg_label">Config</string>
 </resources>

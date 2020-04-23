@@ -11,4 +11,6 @@
     <string name="rate_won">韩元</string>
     <string name="rate_euro">欧元</string>
     <string name="rate_hint">请输入人民币数额</string>
+    <string name="cfg_save_label">保存</string>
+    <string name="rate_openCfg_label">配置汇率</string>
 </resources>
