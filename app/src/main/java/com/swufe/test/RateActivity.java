@@ -124,8 +124,8 @@ public class RateActivity extends AppCompatActivity implements Runnable{
     }
 
     private void openList() {
-        Intent list = new Intent(this,RateListActivity.class);
-        startActivity(list);
+        //Intent list = new Intent(this,RateListActivity.class);
+        //startActivity(list);
     }
 
     @Override

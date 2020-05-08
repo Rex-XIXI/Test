@@ -21,4 +21,8 @@
     <string name="rate_hint">Please Input Amount of RMB</string>
     <string name="cfg_save_label">Save</string>
     <string name="rate_openCfg_label">Config</string>
+    <string name="imfor_hint">Please input keyword</string>
+    <string name="imfor_btn_search">Search</string>
+    <string name="imfor_text_label">College announcement search</string>
+    <string name="imfor_text_label2">Result:</string>
 </resources>

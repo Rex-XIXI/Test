@@ -13,4 +13,8 @@
     <string name="rate_hint">请输入人民币数额</string>
     <string name="cfg_save_label">保存</string>
     <string name="rate_openCfg_label">配置汇率</string>
+    <string name="imfor_hint">请输入搜索关键词</string>
+    <string name="imfor_btn_search">搜索</string>
+    <string name="imfor_text_label">学院公告信息搜索</string>
+    <string name="imfor_text_label2">搜索结果：</string>
 </resources>
